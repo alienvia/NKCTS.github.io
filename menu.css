@@ -8,6 +8,6 @@ h1{
     font-family: Georgia, 'Times New Roman', Times, serif;
 
 }
-.menubar li
+.menubar li{
     display: inline-block;
 }
