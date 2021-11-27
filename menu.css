@@ -1,9 +1,12 @@
 body.menu{
     margin:0;
     background-image: url("bgmenu.png");
+    background-size: cover;
 }
 body.jenis{
     margin:0;
+    background-image: url("bgjenis.png");
+    background-size:cover;
 }
 header{
     background-color: #508c64;
@@ -41,4 +44,3 @@ p{
     margin-right: auto;
     text-align: center;
 }
-
