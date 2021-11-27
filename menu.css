@@ -1,6 +1,9 @@
-body{
+body.menu{
     margin:0;
     background-image: url("bgmenu.png");
+}
+body.jenis{
+    margin:0;
 }
 header{
     background-color: #508c64;
