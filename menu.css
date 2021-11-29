@@ -44,3 +44,35 @@ p{
     margin-right: auto;
     text-align: center;
 }
+
+.h1jenis {
+    color: #508c64;
+    font-size: 50px;
+    margin-left: auto;
+    text-align: center;
+    margin-right: auto;
+}
+.table{
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.pict img{
+    align-items: center;
+    margin-left: 210px;
+    margin-top: 0px;
+
+}
+.ket h2{
+    width: 200px;
+    color: #508c64;
+    font-weight: bolder;
+    margin-left: 300px;
+    font-size: 50px;
+    text-align: justify;
+    margin-top: -20px;
+}
+.content{
+    align-items: center;
+}
+
