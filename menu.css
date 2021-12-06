@@ -77,6 +77,7 @@ p{
 .h1tutorial {
     color: #508c64;
     font-size: 50px;
+    font-family: 'Raleway-Bold';
     margin-left: auto;
     text-align: center;
     margin-right: auto;
@@ -90,7 +91,17 @@ p{
     align-items: center;
     margin-left: 210px;
     margin-top: 0px;
-
+}
+.img1 {
+  width: 70%;
+  height: 275px;
+}
+.head1 {
+  position: sticky;
+  top: 0;
+}
+.ket {
+  margin-left: 100px;
 }
 .ket h2{
     width: 200px;
