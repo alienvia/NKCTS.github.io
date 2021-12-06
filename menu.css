@@ -65,6 +65,13 @@ p{
     text-align: center;
     margin-right: auto;
 }
+.h1tutorial {
+    color: #508c64;
+    font-size: 50px;
+    margin-left: auto;
+    text-align: center;
+    margin-right: auto;
+}
 .table{
     align-items: center;
     margin-left: auto;
