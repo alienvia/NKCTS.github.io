@@ -1,3 +1,12 @@
+@font-face {
+    font-family: 'Raleway-Bold';
+    src:  url('font/Raleway-Bold.ttf');
+}
+@font-face{
+    font-family: 'Lato-Light';
+    src:  url('font/Lato-Light.ttf');    
+}
+
 body.menu{
     margin:0;
     background-image: url("gambar/bgmenu.png");
@@ -57,10 +66,10 @@ p{
     margin-right: auto;
     text-align: center;
 }
-
 .h1jenis {
-    color: #508c64;
-    font-size: 50px;
+    color: #206648;
+    font-size: 72px;
+    font-family: 'Raleway-Bold';
     margin-left: auto;
     text-align: center;
     margin-right: auto;
@@ -85,10 +94,11 @@ p{
 }
 .ket h2{
     width: 200px;
-    color: #508c64;
+    color: #206648;
     font-weight: bolder;
     margin-left: 300px;
-    font-size: 50px;
-    text-align: justify;
+    font-size: 32px;
+    font-family: 'Lato-Light';
+    text-align: center;
     margin-top: -20px;
 }
