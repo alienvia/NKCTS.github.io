@@ -13,6 +13,11 @@ body.beranda{
     background-image:url("gambar/bgberanda.png");
     background-size: cover;
 }
+body.tutorial{
+    margin:0;
+    background-image: url("gambar/bgtutorial.png");
+    background-size:cover;
+}
 header{
     background-color: #508c64;
     display:flex;
