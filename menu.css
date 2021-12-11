@@ -22,16 +22,6 @@ body.beranda{
     background-image:url("gambar/bgberanda.png");
     background-size: cover;
 }
-body.bahaya{
-    margin:0;
-    background-image: url("gambar/bgbahaya.png");
-    background-size:cover;
-}
-body.tutorial{
-    margin:0;
-    background-image: url("gambar/bgtutorial.png");
-    background-size:cover;
-}
 header{
     background-color: #508c64;
     display:flex;
@@ -62,13 +52,6 @@ a{
 .listmenu{
     margin-top: 20px;
 }
-.listbahaya{
-    color: azure;
-    font-size: 25px;
-    font-family: 'Lato-Light';
-    text-align: center;
-    margin-top: -50px;
-}
 p{
     margin-top: 30px;
     background-color: #508c64;
@@ -78,39 +61,13 @@ p{
     margin-right: auto;
     text-align: center;
 }
+
 .h1jenis {
-    color: #206648;
-    font-size: 72px;
-    font-family: 'Raleway-Bold';
-    margin-left: auto;
-    text-align: center;
-    margin-right: auto;
-}
-.h1tutorial {
     color: #508c64;
     font-size: 50px;
-    font-family: 'Raleway-Bold';
     margin-left: auto;
     text-align: center;
     margin-right: auto;
-}
-.h1bahaya{
-    color: #206648;
-    font-size: 80px;
-    font-family: 'Raleway-Bold';
-    margin-left: 10%;
-    text-align: left;
-    margin-right: 20%;
-    margin-top: 5%;
-}
-.h1sampah{
-    color: #206648;
-    font-size: 80px;
-    font-family: 'Raleway-Bold';
-    margin-left: 20%;
-    text-align: right;
-    margin-right: 10%;
-    margin-top: -50px;
 }
 .table{
     align-items: center;
@@ -121,31 +78,14 @@ p{
     align-items: center;
     margin-left: 210px;
     margin-top: 0px;
-}
-.tablecontent img{
-    align-items: center;
-    margin-top: 0px;
-    height: 80%;
-    width: 80%;
-}
-.img1 {
-  width: 70%;
-  height: 275px;
-}
-.head1 {
-  position: sticky;
-  top: 0;
-}
-.ket {
-  margin-left: 100px;
+
 }
 .ket h2{
     width: 200px;
-    color: #206648;
+    color: #508c64;
     font-weight: bolder;
     margin-left: 300px;
-    font-size: 32px;
-    font-family: 'Lato-Light';
-    text-align: center;
+    font-size: 50px;
+    text-align: justify;
     margin-top: -20px;
 }
