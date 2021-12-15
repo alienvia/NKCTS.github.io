@@ -32,11 +32,11 @@ p{
     background-color: #508c64;
     padding: 15px;
     width: 45%;
-    margin-left: auto;
+    margin-left: 30%;
     margin-right: auto;
     text-align: center;
 }
-.tablecontent img{
+.tableheader img{
     align-items: center;
     margin-top: 0px;
     height: 80%;
@@ -52,10 +52,9 @@ h1{
     color: #206648;
     font-size: 80px;
     font-family: 'Raleway-Bold';
-    margin-left: 10%;
+    margin-left: 15%;
     text-align: left;
     margin-right: 20%;
-    margin-top: 5%;
 }
 .h1sampah{
     color: #206648;
@@ -63,13 +62,26 @@ h1{
     font-family: 'Raleway-Bold';
     margin-left: 20%;
     text-align: right;
-    margin-right: 10%;
+    margin-right: 5%;
     margin-top: -50px;
+    margin-bottom: -25px;
 }
 .list{
     color: azure;
     font-size: 25px;
     font-family: 'Lato-Light';
     text-align: center;
-    margin-top: -50px;
+}
+.parent{
+    position: static;
+}
+.iconbahaya1{
+    position: absolute;
+    top: 416px;
+    left: 210px;
+}
+.iconbahaya2{
+    position: absolute;
+    top: 505px;
+    left: 210px;
 }
