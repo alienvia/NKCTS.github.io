@@ -6,22 +6,14 @@
   font-family: "Lato-Light";
   src: url("font/Lato-Light.ttf");
 }
-body.menu {
-  margin: 0;
-  background-image: url("gambar/bgmenu.png");
-  background-size: cover;
-}
-body.beranda {
-  margin: 0;
-  background-image: url("gambar/bgberanda.png");
-  background-size: cover;
-}
+
 body.jenissampahorganik {
   margin: 0;
   background-image: url("gambar/bgjenissampahorganik.png");
   background-size: cover;
 }
 header {
+  margin:0;
   background-color: #508c64;
   display: flex;
   justify-content: space-between;
