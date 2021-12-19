@@ -19,7 +19,7 @@ body.jenis{
 }
 body.beranda{
     margin: 0;
-    background-image:url("gambar/bgberanda.png");
+    background-image:url("gambar/bg-beranda.png");
     background-size: cover;
 }
 body.kami{
